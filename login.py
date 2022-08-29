@@ -1,4 +1,4 @@
-#! C:\Users\PRAFULLA\AppData\Local\Programs\Python\Python39\python.exe
+#! C:\Users\Pradolux\AppData\Local\Programs\Python\Python310\python.exe
 import cgi
 from base64 import b64decode
 import face_recognition
